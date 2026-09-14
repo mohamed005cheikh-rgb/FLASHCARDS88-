@@ -30,6 +30,25 @@ No accounts. No cloud. No tracking. No notifications.
 
 ---
 
+## A quick look
+
+<p align="center">
+  <img src="screenshots/preview.gif" width="280" alt="FLASHCARDS88 in motion">
+</p>
+
+<p align="center">
+  <em>Create a deck, review a card, rate your recall. That is the whole app.</em>
+</p>
+
+<!--
+  To display your GIF:
+  1. Create a folder named "screenshots" in the repository root
+  2. Place your GIF inside, named: preview.gif
+  3. Commit and push — GitHub will display it automatically
+-->
+
+---
+
 ## The philosophy
 
 Most study apps are loud. They send push notifications, chase streaks, and turn learning into a performance. We deliberately took a different path.
@@ -71,27 +90,6 @@ Two ideas, kept simple.
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="30%" alt="Home screen">
-  <img src="screenshots/study.png" width="30%" alt="Study mode">
-  <img src="screenshots/themes.png" width="30%" alt="Themes">
-</p>
-
-<p align="center">
-  <em>The home screen, a review session, and the theme picker.</em>
-</p>
-
-<!--
-  To add your screenshots:
-  1. Create a folder named "screenshots" in the repository root
-  2. Place your images inside, named: home.png, study.png, themes.png
-  3. Commit and push — GitHub will display them automatically
--->
-
----
-
 ## Install
 
 **Option 1 — Direct download**
@@ -105,7 +103,7 @@ Two ideas, kept simple.
 **Option 2 — Scan the QR code**
 
 <p align="center">
-  <img src="screenshots/qr-code.png" width="220" alt="Scan to download">
+  <img src="screenshots/qr-code.png" width="200" alt="Scan to download FLASHCARDS88">
 </p>
 
 <p align="center">
@@ -113,12 +111,10 @@ Two ideas, kept simple.
 </p>
 
 <!--
-  To add your QR code:
-  1. Go to qrcode-monkey.com
-  2. Paste this URL: https://github.com/mohamed005cheikh-rgb/FLASHCARDS88-/releases/latest
-  3. Customize the color and add your logo if you like
-  4. Download as PNG (700×700)
-  5. Save it as screenshots/qr-code.png
+  To display your QR code:
+  1. Place your QR code inside the "screenshots" folder
+  2. Name it: qr-code.png
+  3. Commit and push
 -->
 
 **A note about the warning.** Android will warn you that this app comes from an unknown source. That is standard for any APK distributed outside the Play Store. The app is safe, open, and auditable — the full source is in this repository.
